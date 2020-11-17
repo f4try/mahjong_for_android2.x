@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">连连看</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">关于</string>
+    <string name="resetGame">重玩</string>
+    <string name="resetBtn">重列</string>
+       <string name="result">完成</string>
+        <string name="new_record">新纪录</string>
+         <string name="score_rules">计分规则</string>
+          <string name="score_rules_content">\n\t基础分: 一条折线消除加10分，两条折线消除加20分，三条折线消除加30分；\n\n\t时间加分: 时间加分 = 600 - 所用秒数*10；\n\n\t最终得分为基础分与时间加分之和。</string>
+
+</resources>
